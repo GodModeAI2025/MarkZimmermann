@@ -37,3 +37,8 @@ Diese Seite enthält Links zu externen Websites Dritter, auf deren Inhalte kein 
 ### Urheberrecht
 
 Die durch den Seitenbetreiber erstellten Inhalte und Werke auf dieser Seite unterliegen dem deutschen Urheberrecht. Sofern nicht anders gekennzeichnet, stehen die Inhalte dieses Repositories unter der im Repository angegebenen Lizenz.
+
+### GitHub-Repositories
+Sämtliche GitHub-Repositories unter meinem Account werden privat, ohne kommerzielle Hintergedanken und ausschließlich für die Community erstellt und betrieben. Die bereitgestellten Inhalte, Quelltexte und Materialien dienen dem freien Wissensaustausch und der gemeinsamen Weiterentwicklung.
+
+Ich übernehme keinerlei Haftung oder Verantwortung für den Einsatz, die Nutzung oder die Weiterverwendung der in meinen Repositories enthaltenen Inhalte. Die Nutzung erfolgt auf eigene Gefahr und eigenes Risiko. Insbesondere wird keine Gewähr für die Fehlerfreiheit, Funktionsfähigkeit, Aktualität oder Eignung für einen bestimmten Zweck übernommen.
