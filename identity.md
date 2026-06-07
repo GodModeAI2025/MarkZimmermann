@@ -34,7 +34,7 @@ frameworks:
   - Agent Governance — Architektur, Audit-Trails und sichere Einführung von KI-Agenten in regulierten Umgebungen
   - Design Thinking und UX-Fokus — Benutzererfahrung in allen Projekten an erster Stelle; UX als Orchestrator-Schicht der Agentensteuerung
   - LinkedIn Thought Leadership — KI-Wochenrückblick, 14.500+ Follower
-infrastructure: Claude (Opus/Sonnet) mit 50+ eigenen Skills, MCP-Server (GCal, Gmail, Gamma, Canva), Python, Markdown, TYPO3 CMS, GitHub (GodModeAI2025), Apple-Ökosystem (Vision Pro Early Adopter)
+infrastructure: Claude (Opus/Sonnet) mit 50+ eigenen Skills, MCP-Server (GCal, Gmail, Gamma, Canva), Python, Markdown, TYPO3 CMS, GitHub (GodModeAI2025), Apple-Ökosystem (Vision Pro Early Adopter), n8n Cloud (Workflow-Automation), Auphonic (Podcast-Audio-Postproduktion), Readwise (Highlight-/Wissensfluss), Jamf (Apple-Geräteverwaltung/MDM), Manus (autonome Agenten)
 writing-voice:  # authoriale Stimme für Posts/Artikel/Bücher — ergänzt (widerspricht nicht) die knappe Agent-Kommunikation oben
   - Kurze Schlagsätze als Betonung — lange Gedanken bewusst aufbrechen ("Nicht irgendwann. Jetzt.")
   - Antithese als Motor — in Kontrastpaaren denken ("nicht A, sondern B", "X statt Y")
