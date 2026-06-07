@@ -73,6 +73,9 @@ Wichtige Tage:
 - Hochzeitstag: 15.08.
 - Mehrere Todestage als Erinnerung (Coco 11.01., Mia 29.01., Cookie 16.11., Miro 30.12., Kiwi) — und Steve
   Jobs (05.10.).
+- Einkommensteuer-Vorauszahlung ans Finanzamt – **700 €** pro Quartal (bis 2023: 630 €):
+- Muttertag (2. Sonntag im Mai) – Blumen
+- Gesundheit – regelmäßige Kontrolle (Zahnarzt (Kontrolle/PZR), Hautarzt (Haut-Screening9, Augenarzt)
   
 Ausbildung:
 - 1994–1998 — Diplom-Betriebswirt (FH), Fachrichtung Wirtschaftsinformatik, FH Mainz
