@@ -8,6 +8,7 @@ working-style:
   - Stratege und Builder — Big Picture entwerfen, dann selbst bauen und veröffentlichen; baut Open-Source-Tools, KI-Skills und Agent-Architekturen
   - Iterativ mit Automatisierung — erst Struktur, dann Substanz, dann Polish; lässt Agenten nachts autonom optimieren (Autoresearch-Paradigma)
   - Ökosystem-Denker — keine isolierten Einzellösungen, sondern vernetzte Systeme; Design Thinking als Führungsprinzip
+  - Brückenbauer — übersetzt Technologie in Transformation; Wandel gelingt nur, wenn Menschen ihn mittragen (Storytelling vor Tooling)
   - 30+ Jahre Technologie-Expertise, 20+ Jahre Enterprise — kennt den Graben zwischen Hype und Produktivbetrieb
 communication:
   - Direkt und knapp — keine Floskeln, kein Smalltalk, keine Einleitungssätze
@@ -29,10 +30,31 @@ frameworks:
   - Multi-Agent-Orchestrierung mit Orchestrator-Sub-Agent-Hierarchien
   - Spec-Driven Development — erst Spezifikation, dann Implementierung (SpecForge)
   - Autoresearch — KI-Skills verbessern sich autonom über Nacht durch Hypothesis-Mutator-Eval-Loops
-  - Agent Security — Prompt Injection Scanner, Unicode-Sanitizer, kryptographische Audit-Chains
-  - Design Thinking und UX-Fokus — Benutzererfahrung in allen Projekten an erster Stelle
+  - Agent Security — Prompt Injection Scanner, Unicode-Sanitizer, kryptographische Audit-Chains (Beweisketten für die Black Box)
+  - Agent Governance — Architektur, Audit-Trails und sichere Einführung von KI-Agenten in regulierten Umgebungen
+  - Design Thinking und UX-Fokus — Benutzererfahrung in allen Projekten an erster Stelle; UX als Orchestrator-Schicht der Agentensteuerung
   - LinkedIn Thought Leadership — KI-Wochenrückblick, 14.500+ Follower
 infrastructure: Claude (Opus/Sonnet) mit 50+ eigenen Skills, MCP-Server (GCal, Gmail, Gamma, Canva), Python, Markdown, TYPO3 CMS, GitHub (GodModeAI2025), Apple-Ökosystem (Vision Pro Early Adopter)
 ---
 
-Jahrgang 1974. Autor von 14+ Fach- und Sachbüchern (u.a. Der AI Kompass, Die letzte Erfindung, Die KI-Blase, Model Context Protocol, Einsatz von Apple Intelligence im Unternehmen) plus vier Romane/Thriller an der Schnittstelle Technologie und Gesellschaft. 3000+ Fachartikel bei heise online (heise+, iX, Mac & i) und IDG. Podcast-Host von "Think Different. Think AI." und "AI REWRITE". SAP Innovation Award 2022 (NeWa Apple Watch App). Google Cloud Zertifikate für Generative AI, LLMs, Responsible AI. Dipl.-Betriebswirt (FH Mainz). Website: kopfundki.com. Spendet alle Buchgewinne. Apple Fanboy mit Substanz — nicht oberflächlich, sondern Design Thinking, UX-Fokus und Ökosystem-Denken als gelebte Praxis.
+Jahrgang 1974. Über 20 Jahre in einem der größten Energiekonzerne Deutschlands — vom IT-Consultant über Innovation Manager und Leiter der Mobile-Entwicklung bis zum Head of Center of Excellence Mobile (seit 2022). Verantwortet gruppenweite Standards für App-Architektur, Security, Privacy by Design und Delivery; heutiger Schwerpunkt: On-Device AI, Generative AI, Agentic Workflows, Apple Intelligence, visionOS. IT-Laufbahn seit 1998, Apple-Insider mit WWDC-Teilnahmen von 2006 bis 2014.
+
+Werdegang (kompakt):
+- seit 2022 — Head of CoE Mobile, EnBW
+- 2016–2022 — Teamleiter Mobile Development, EnBW
+- 2014–2016 — Senior Innovation Manager, EnBW
+- 2008–2014 — Teamleiter Innovative Produkte (iOS/Android/Windows Mobile/BlackBerry), EnBW
+- 2005–2008 — IT-Consultant / stellv. Teamleiter (PMO, SAP-Einführung, QM), EnBW
+- 2002–2005 — Senior IT Consultant (CMS & Suchmaschinen), Unilog Avinci / Avinci
+- 1998–2002 — IT Consultant / Administrator (Schmücker & Partner, SerCon, BRM Steutax)
+- parallel seit 2012 — freier IT-Fachautor & Referent (heise, IDG, Heinemann, ComConsult)
+
+Ausbildung:
+- 1994–1998 — Diplom-Betriebswirt (FH), Fachrichtung Wirtschaftsinformatik, FH Mainz
+- 1993–1994 — Praktikum zur Erlangung der Fachhochschulreife, IBM (interne Berufsausbildung)
+
+Autor von 14+ Fach- und Sachbüchern (u.a. Der AI Kompass, Die letzte Erfindung, Die KI-Blase, Model Context Protocol, Einsatz von Apple Intelligence im Unternehmen — letzteres rezensiert bei heise online) plus vier Romane/Thriller an der Schnittstelle Technologie und Gesellschaft. 3000+ Fachartikel und ~100 Publikationen bei heise online (heise+, iX, Mac & i) und IDG; Referent mit Expertenstatus bei der heise academy. Podcast-Host von "Think Different. Think AI." und "AI REWRITE".
+
+Auszeichnungen: SAP Innovation Award 2022 (NeWa / Digital Companion für Service-Techniker), SMP Best Practice Award 2013, Deutscher Nachhaltigkeitspreis sowie Connect-, AUTO BILD- und COMPUTER BILD-Testsieger (App Mobility+), App des Monats 2015 (E-Cockpit). 2024 namentlich im Apple Newsroom genannt ("Apple Vision Pro brings a new era of spatial computing to business").
+
+Zertifikate: Google Cloud (Generative AI, LLMs, Responsible AI, Image Generation, AI & ML), DeepLearning.AI (AI For Everyone), ISO/IEC 42001:2023 (AI Management System), EU AI Act / KI-Kompetenz, DSGVO, CompTIA Security+, Prompt Engineering, Machine Learning, NLP mit Python. Dipl.-Betriebswirt (FH Mainz), Fachrichtung Wirtschaftsinformatik. Website: kopfundki.com. Spendet alle Buchgewinne. Apple Fanboy mit Substanz — nicht oberflächlich, sondern Design Thinking, UX-Fokus und Ökosystem-Denken als gelebte Praxis.
