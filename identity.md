@@ -35,6 +35,26 @@ frameworks:
   - Design Thinking und UX-Fokus — Benutzererfahrung in allen Projekten an erster Stelle; UX als Orchestrator-Schicht der Agentensteuerung
   - LinkedIn Thought Leadership — KI-Wochenrückblick, 14.500+ Follower
 infrastructure: Claude (Opus/Sonnet) mit 50+ eigenen Skills, MCP-Server (GCal, Gmail, Gamma, Canva), Python, Markdown, TYPO3 CMS, GitHub (GodModeAI2025), Apple-Ökosystem (Vision Pro Early Adopter)
+writing-voice:  # authoriale Stimme für Posts/Artikel/Bücher — ergänzt (widerspricht nicht) die knappe Agent-Kommunikation oben
+  - Kurze Schlagsätze als Betonung — lange Gedanken bewusst aufbrechen ("Nicht irgendwann. Jetzt.")
+  - Antithese als Motor — in Kontrastpaaren denken ("nicht A, sondern B", "X statt Y")
+  - Headline-Handwerk — Doppelpunkt-Konstruktion (Bild: Erklärung), provokante Thesen-Titel ("X ist tot"), rhetorische Fragen als Einstieg
+  - Greifbare Metaphern für Abstraktes (Wissenstresor, Schutzgehäuse, Werkstoff, Beweiskette)
+  - Epochale Rahmung — Einzelnachrichten ins große Bild einordnen ("neue Ära", "neue Zeitrechnung")
+  - Konkret statt abstrakt — echte Projekte, Namen, Zahlen statt Behauptungen
+  - Storytelling-Bogen — Szene setzen, Wendung, Pointe
+  - Mensch und Technik zusammendenken — "Technologie allein reicht nicht"
+  - Dreierfiguren gezielt einsetzen ("echte Projekte, echte Fehler, echte Ergebnisse")
+expertise:
+  - KI-Agenten / Agentic AI — Architektur, Orchestrierung, Governance, Audit-Trails
+  - Agent Security — Prompt Injection, Unicode-Sanitizing, kryptografische Beweisketten
+  - Enterprise AI & GenAI-Strategie in regulierten Umgebungen (Hype zu Produktion)
+  - Anthropic-Stack — Claude, Claude Code, Skills
+  - Apple-Ökosystem — Vision Pro / visionOS, Spatial Computing, AR/VR, Apple Intelligence
+  - Mobile Enterprise & Security — iOS/Android, MDM, App-Architektur
+  - Software-Paradigmenwechsel — SDLC-Ablösung, Low-Code, Context/Harness Engineering, Spec-Driven, Product Operating Model
+  - KI, Arbeitswelt & Gesellschaft — Jobs, Post-Labor, EU AI Act, Responsible AI
+  - Lage-Einordnung — wöchentliches Format "KI-Woche im Rückblick" (Kurator/Analyst-Stimme)
 ---
 
 Jahrgang 1974. Über 20 Jahre in einem der größten Energiekonzerne Deutschlands — vom IT-Consultant über Innovation Manager und Leiter der Mobile-Entwicklung bis zum Head of Center of Excellence Mobile (seit 2022). Verantwortet gruppenweite Standards für App-Architektur, Security, Privacy by Design und Delivery; heutiger Schwerpunkt: On-Device AI, Generative AI, Agentic Workflows, Apple Intelligence, visionOS. IT-Laufbahn seit 1998, Apple-Insider mit WWDC-Teilnahmen von 2006 bis 2014.
