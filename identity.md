@@ -1,14 +1,20 @@
 ---
 schema: context-handshake/identity/v1
 name: Mark Zimmermann
-role: Head of CoE Mobile @ EnBW | KI in der Energiewende | GenAI, Agents, Enterprise AI | Autor & Podcast-Host
+role: Konzernexperte Frontier AI @ EnBW (ab 01.09.2026; bis 31.08.2026 Head of CoE Mobile) | KI in der Energiewende | GenAI, Agents, Enterprise AI | Autor & Podcast-Host
+role-transition:
+  - bis 31.08.2026 — Head of CoE Mobile (Linienführung, gruppenweite Mobile-Standards)
+  - ab 01.09.2026 — Konzernexperte Frontier AI (Fachlaufbahn, konzernweite fachliche Autorität statt Teamführung)
+  - Konsequenz für den Stil: Wirkung entsteht ab jetzt über Substanz, Referenzarchitekturen und veröffentlichte Ergebnisse — nicht über Titel oder Weisungslinie
 working-style:
   - Crazy Ones Mentalität — hinterfragt den Status Quo nicht aus Rebellion, sondern aus dem Wunsch nach Verbesserung; Probleme existieren, um beseitigt zu werden
-  - Experimenteller Pragmatismus — probiert aus statt ewig zu lernen; lieber um Entschuldigung bitten als um Erlaubnis fragen
+  - Experimenteller Pragmatismus — probiert aus statt ewig zu lernen; lieber um Entschuldigung bitten als um Erlaubnis fragen; lernt durch Handeln, nicht durch Theorie
   - Stratege und Builder — Big Picture entwerfen, dann selbst bauen und veröffentlichen; baut Open-Source-Tools, KI-Skills und Agent-Architekturen
   - Iterativ mit Automatisierung — erst Struktur, dann Substanz, dann Polish; lässt Agenten nachts autonom optimieren (Autoresearch-Paradigma)
   - Ökosystem-Denker — keine isolierten Einzellösungen, sondern vernetzte Systeme; Design Thinking als Führungsprinzip
   - Brückenbauer — übersetzt Technologie in Transformation; Wandel gelingt nur, wenn Menschen ihn mittragen (Storytelling vor Tooling)
+  - Autorität durch Vision und Ergebnisse, nicht durch Titel — Position wird über gelieferte Substanz begründet
+  - Frontier-Blick — bewertet neue Modellfähigkeiten früh und übersetzt sie in konzernfähige Architekturen, bevor sie Mainstream werden
   - 30+ Jahre Technologie-Expertise, 20+ Jahre Enterprise — kennt den Graben zwischen Hype und Produktivbetrieb
 communication:
   - Direkt und knapp — keine Floskeln, kein Smalltalk, keine Einleitungssätze
@@ -17,13 +23,16 @@ communication:
   - Keine Emojis, keine übertriebene Formatierung
   - Niveau ist Fachpublikum — kein Onboarding nötig bei KI, Agents, Security, Enterprise, Apple
   - Mutig und meinungsstark — scheut keine klaren Positionen
+  - Strategischer Detailgrad — Vision immer, Details auf Abruf
+  - Kontrollierte Begeisterung — Techno-Optimismus ja, Euphorie-Sprech nein
 constraints:
-  - Niemals den Arbeitgeber oder die Firma namentlich nennen oder erkennbar machen
+  - Niemals den Arbeitgeber oder die Firma namentlich nennen oder erkennbar machen (gilt für Veröffentlichungen, nicht für diese Datei)
   - Niemals generischen Marketingsprech oder KI-typische Füllwörter verwenden
+  - Niemals fremde Leader-Mottos als eigene Stimme ausgeben ("Move fast and break things", "Build awesome things" u. ä.) — die eigene Stimme steht unter writing-voice
   - Niemals Inhalte ohne explizite Rückfrage veröffentlichen oder versenden
   - Niemals Quellen, Fakten oder Zitate halluzinieren — lieber sagen was fehlt
   - Niemals ungefragt vereinfachen — das Niveau ist Fachpublikum, nicht Einsteiger
-  - Niemals geht nicht sagen — Unmöglichkeit existiert nicht im Vokabular
+  - Niemals geht nicht sagen — Leitsatz "Unmöglich gibt es in der IT nicht"
   - Niemals Apple-Expertise ignorieren — tiefes Wissen über iOS, visionOS, AR, Mobile Enterprise
 frameworks:
   - Claude Skills als primäres Werkzeug für wiederverwendbare Agent-Fähigkeiten (50+ eigene Skills)
@@ -46,6 +55,7 @@ writing-voice:  # authoriale Stimme für Posts/Artikel/Bücher — ergänzt (wid
   - Mensch und Technik zusammendenken — "Technologie allein reicht nicht"
   - Dreierfiguren gezielt einsetzen ("echte Projekte, echte Fehler, echte Ergebnisse")
 expertise:
+  - Frontier AI — frühe Bewertung neuer Modellfähigkeiten, Übersetzung in konzernfähige Referenzarchitekturen und Leitplanken
   - KI-Agenten / Agentic AI — Architektur, Orchestrierung, Governance, Audit-Trails
   - Agent Security — Prompt Injection, Unicode-Sanitizing, kryptografische Beweisketten
   - Enterprise AI & GenAI-Strategie in regulierten Umgebungen (Hype zu Produktion)
@@ -57,10 +67,13 @@ expertise:
   - Lage-Einordnung — wöchentliches Format "KI-Woche im Rückblick" (Kurator/Analyst-Stimme)
 ---
 
-Jahrgang 1974. Über 20 Jahre in einem der größten Energiekonzerne Deutschlands — vom IT-Consultant über Innovation Manager und Leiter der Mobile-Entwicklung bis zum Head of Center of Excellence Mobile (seit 2022). Verantwortet gruppenweite Standards für App-Architektur, Security, Privacy by Design und Delivery; heutiger Schwerpunkt: On-Device AI, Generative AI, Agentic Workflows, Apple Intelligence, visionOS. IT-Laufbahn seit 1998, Apple-Insider mit WWDC-Teilnahmen von 2006 bis 2014.
+Jahrgang 1974. Über 20 Jahre in einem der größten Energiekonzerne Deutschlands, vom IT-Consultant über Innovation Manager und Leiter der Mobile-Entwicklung bis zum Head of Center of Excellence Mobile (2022 bis 2026). Ab September 2026 Konzernexperte für Frontier AI. Der Weg führt aus der Linienführung in die Fachlaufbahn, mit konzernweitem Auftrag: neue Modellfähigkeiten früh bewerten, Architektur- und Governance-Leitplanken setzen, den Weg von der Demo in den Produktivbetrieb bauen. Schwerpunkte: Agentic AI, Generative AI, On-Device AI, Agent Security, Apple Intelligence, visionOS. IT-Laufbahn seit 1998, Apple-Insider mit WWDC-Teilnahmen von 2006 bis 2014.
+
+KI-Stratege und strategischer Treiber der konzernweiten KI-Agenda. Verbindet visionäre Technologiebegeisterung mit pragmatischer, unternehmerischer Führung. Hinterfragt Bestehendes konstruktiv und behandelt Probleme als etwas, das man beseitigt. Leitsatz: „Unmöglich gibt es in der IT nicht". Denkt in Nutzererlebnissen und Ökosystemen statt in isolierten Einzellösungen (Design Thinking). Setzt neue Technologien früh ein, experimentiert und liefert.
 
 Werdegang (kompakt):
-- seit 2022 — Head of CoE Mobile, EnBW
+- ab 09/2026 — Konzernexperte Frontier AI, EnBW
+- 2022–2026 — Head of CoE Mobile, EnBW
 - 2016–2022 — Teamleiter Mobile Development, EnBW
 - 2014–2016 — Senior Innovation Manager, EnBW
 - 2008–2014 — Teamleiter Innovative Produkte (iOS/Android/Windows Mobile/BlackBerry), EnBW
@@ -71,18 +84,17 @@ Werdegang (kompakt):
 
 Wichtige Tage:
 - Hochzeitstag: 15.08.
-- Mehrere Todestage als Erinnerung (Coco 11.01., Mia 29.01., Cookie 16.11., Miro 30.12., Kiwi) — und Steve
-  Jobs (05.10.).
-- Einkommensteuer-Vorauszahlung ans Finanzamt – **700 €** pro Quartal (bis 2023: 630 €):
-- Muttertag (2. Sonntag im Mai) – Blumen
-- Gesundheit – regelmäßige Kontrolle (Zahnarzt (Kontrolle/PZR), Hautarzt (Haut-Screening9, Augenarzt)
-  
+- Mehrere Todestage als Erinnerung (Coco 11.01., Mia 29.01., Cookie 16.11., Miro 30.12., Kiwi) — und Steve Jobs (05.10.)
+- Einkommensteuer-Vorauszahlung ans Finanzamt — **700 €** pro Quartal (bis 2023: 630 €)
+- Muttertag (2. Sonntag im Mai) — Blumen
+- Gesundheit — regelmäßige Kontrolle: Zahnarzt (Kontrolle/PZR), Hautarzt (Haut-Screening), Augenarzt
+
 Ausbildung:
 - 1994–1998 — Diplom-Betriebswirt (FH), Fachrichtung Wirtschaftsinformatik, FH Mainz
 - 1993–1994 — Praktikum zur Erlangung der Fachhochschulreife, IBM (interne Berufsausbildung)
 
-Autor von 14+ Fach- und Sachbüchern (u.a. Der AI Kompass, Die letzte Erfindung, Die KI-Blase, Model Context Protocol, Einsatz von Apple Intelligence im Unternehmen — letzteres rezensiert bei heise online) plus vier Romane/Thriller an der Schnittstelle Technologie und Gesellschaft. 3000+ Fachartikel und ~100 Publikationen bei heise online (heise+, iX, Mac & i) und IDG; Referent mit Expertenstatus bei der heise academy. Podcast-Host von "Think Different. Think AI." und "AI REWRITE".
+Autor von 14+ Fach- und Sachbüchern (u.a. Der AI Kompass, Die letzte Erfindung, Die KI-Blase, Model Context Protocol, Einsatz von Apple Intelligence im Unternehmen, letzteres rezensiert bei heise online) plus vier Romane/Thriller an der Schnittstelle Technologie und Gesellschaft. 3000+ Fachartikel und ~100 Publikationen bei heise online (heise+, iX, Mac & i) und IDG. Referent mit Expertenstatus bei der heise academy. Podcast-Host von „Think Different. Think AI." und „AI REWRITE".
 
-Auszeichnungen: SAP Innovation Award 2022 (NeWa / Digital Companion für Service-Techniker), SMP Best Practice Award 2013, Deutscher Nachhaltigkeitspreis sowie Connect-, AUTO BILD- und COMPUTER BILD-Testsieger (App Mobility+), App des Monats 2015 (E-Cockpit). 2024 namentlich im Apple Newsroom genannt ("Apple Vision Pro brings a new era of spatial computing to business").
+Auszeichnungen: SAP Innovation Award 2022 (NeWa / Digital Companion für Service-Techniker), SMP Best Practice Award 2013, Deutscher Nachhaltigkeitspreis sowie Connect-, AUTO BILD- und COMPUTER BILD-Testsieger (App Mobility+), App des Monats 2015 (E-Cockpit). 2024 namentlich im Apple Newsroom genannt („Apple Vision Pro brings a new era of spatial computing to business").
 
-Zertifikate: Google Cloud (Generative AI, LLMs, Responsible AI, Image Generation, AI & ML), DeepLearning.AI (AI For Everyone), ISO/IEC 42001:2023 (AI Management System), EU AI Act / KI-Kompetenz, DSGVO, CompTIA Security+, Prompt Engineering, Machine Learning, NLP mit Python. Dipl.-Betriebswirt (FH Mainz), Fachrichtung Wirtschaftsinformatik. Website: kopfundki.com. Spendet alle Buchgewinne. Apple Fanboy mit Substanz — nicht oberflächlich, sondern Design Thinking, UX-Fokus und Ökosystem-Denken als gelebte Praxis.
+Zertifikate: Google Cloud (Generative AI, LLMs, Responsible AI, Image Generation, AI & ML), DeepLearning.AI (AI For Everyone), ISO/IEC 42001:2023 (AI Management System), EU AI Act / KI-Kompetenz, DSGVO, CompTIA Security+, Prompt Engineering, Machine Learning, NLP mit Python. Dipl.-Betriebswirt (FH Mainz), Fachrichtung Wirtschaftsinformatik. Website: kopfundki.com. Spendet alle Buchgewinne. Apple Fanboy mit Substanz. Die Prägung zeigt sich in Produktqualität, UX-Fokus und Ökosystem-Denken.
